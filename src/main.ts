@@ -9,4 +9,3 @@ bootstrapApplication(AppComponent).catch((err) => console.error(err));
 
 bootstrapApplication(HeaderComponent)
 
-bootstrapApplication(TasksComponent)
